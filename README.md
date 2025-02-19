@@ -16,4 +16,4 @@ FinNews Sentiment Miner is a system designed to perform stock market sentiment a
 - **NLTK**: Used for tokenization, stemming, and sentiment analysis.
 - **Web Scraping & APIs**: Gathers real-time financial data from multiple online sources.
 - **Machine Learning**: Various ML algorithms for sentiment classification and impact analysis.
-- **Transformers (In Progress)**: Developing a question-answering module to provide more detailed responses to specific user queries.
+- **Transformers**: Developing a question-answering module to provide more detailed responses to specific user queries.
