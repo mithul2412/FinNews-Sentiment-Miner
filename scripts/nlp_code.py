@@ -74,7 +74,7 @@ def analyze_sentiment(text, analyzer):
         return "neutral", compound
 
 def main():
-    # Set your Finnhub API key here
+    # Set your Finnhub API key here, can also be used with Marketaux, NewsAPI
     api_key = "YOUR_FINNHUB_API_KEY"
     
     # Fetch live news articles (e.g., general financial news)
